@@ -34,7 +34,7 @@
   "@mapbox/mapbox-sdk": "^0.15.5",
   
     
-  "cloudinary": "^2.1.0",
+  "cloudinary": "^2.2.0",
   
     
   "connect-flash": "^0.1.1",
