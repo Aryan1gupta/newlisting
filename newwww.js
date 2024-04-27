@@ -1,1 +1,1 @@
-const new=new.shreyansh;
+const p="shreyansh";
