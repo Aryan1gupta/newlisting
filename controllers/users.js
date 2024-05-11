@@ -1,4 +1,4 @@
-const User=require("../../majorProject/models/user");
+const User=require("C:\Users\admin\OneDrive\Desktop\MongoDB\majorProject\models");
 
 module.exports.renderSignupForm=(req,res)=>{
     res.render("users/signup.ejs");
